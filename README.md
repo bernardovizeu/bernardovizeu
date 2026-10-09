@@ -2,11 +2,13 @@
 
 # Hi there, I'm Bernardo Vizeu! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Bioinformatics+Dev;Python+%26+Django+Specialist;Building+Genomic+Data+Pipelines+%F0%9F%A7%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Bioinformatics+Dev;Genomic+Data+Pipelines+%26+Django+Specialist;Population+Genomics+%7C+PLINK+%26+ADMIXTURE;Embrapa+Gado+de+Leite+%F0%9F%A7%AC)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:bernardovmiranda@gmail.com"><img src="https://img.shields.io/badge/Email-bernardovmiranda%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
   <a href="https://linkedin.com/in/bernardovizeu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/bernardovizeu"><img src="https://img.shields.io/badge/GitHub-bernardovizeu-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Embrapa-Gado_de_Leite-006837?style=flat-square&logo=leaf" alt="Embrapa"/>
   <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square&logo=googlemaps" alt="Location"/>
 </p>
 
@@ -16,18 +18,31 @@
 
 ### 🧬 About Me
 
-I am a Software Engineer and Developer specializing in **Python, Django, and data-intensive pipelines**. Recently, I've been focused on developing **Biolab**, an end-to-end bioinformatics platform that handles large-scale genomic, phenotypic, and pedigree data for dairy cattle breeding programs (Gir and Girolando / PNMGL).
+I am a **Software Engineer and Bioinformatics Developer** at **Embrapa Gado de Leite**, operating at the intersection of data-intensive web architectures, high-performance computing, and livestock genomics. 
 
-- 🔭 **Currently working on:** High-throughput data ingestion, fast table merging algorithms, and interactive genomic reporting tools.
-- ⚡ **Focus areas:** Backend architecture, database optimization, external API integrations (Neogen, Zoetis Clarifide), and scalable data manipulation with Pandas.
-- 🛠️ **Favorite challenge:** Turning complex biological datasets and messy spreadsheets into blazing-fast web queries and clean visual dashboards.
-- 💬 **Ask me about:** Python, Django, PostgreSQL, ETL pipelines, and performance tuning for large tabular datasets.
+My work is centered on building end-to-end scientific platforms and automated pipelines that transform massive, complex biological datasets — from raw Illumina high-density SNP arrays to pedigree trees and phenotypic evaluations — into fast web interfaces, scalable database queries, and publication-ready genomic analyses for dairy cattle breeding programs (Gir, Girolando, and PNMGL).
+
+- 🔭 **Currently working on:** 
+  - **AdmixtureGen:** An end-to-end Django & CLI platform for genomic ancestry and population structure analysis, featuring raw Illumina FinalReport converters, 3-stage PLINK QC/LD pruning, and multi-threaded ADMIXTURE model runs with cross-validation error optimization.
+  - **Biolab:** A comprehensive bioinformatics system for managing genotypic, phenotypic, and pedigree records for dairy cattle, with automated lab integrations and high-speed data crossing algorithms.
+- ⚡ **Core focus:** Backend engineering (Python, Django, PostgreSQL), scientific workflow automation (Bash, Linux), population genetics modeling (PLINK, ADMIXTURE), and large-scale tabular processing (Pandas, NumPy).
+- 🛠️ **Favorite challenge:** Bridging the gap between specialized bioinformatics command-line algorithms and elegant, responsive web applications that empower researchers and geneticists.
+- 💬 **Ask me about:** Python, Django, PostgreSQL, PLINK quality control, ADMIXTURE ancestry modeling, genomic data pipelines, and database optimization.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <div align="left">
+
+**Bioinformatics & Population Genetics**
+<p>
+  <img src="https://img.shields.io/badge/PLINK_1.9-Genomic_QC-2B579A?style=flat-square&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADMIXTURE-Population_Structure-2E7D32?style=flat-square&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illumina-GenomeStudio_ETL-00838F?style=flat-square&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genomic_Pipelines-LD_Pruning-5E35B1?style=flat-square" />
+</p>
 
 **Languages & Backend**
 <p>
@@ -38,11 +53,12 @@ I am a Software Engineer and Developer specializing in **Python, Django, and dat
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-**Data Engineering & Bioinformatics**
+**Data Engineering & Visualization**
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
@@ -52,20 +68,29 @@ I am a Software Engineer and Developer specializing in **Python, Django, and dat
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 Highlight Project: Biolab (Bioinformatics Platform)
+### 🚀 Highlight Projects
 
-> A full-featured web application dedicated to genomics, genealogy, and breeding data management.
+#### 1. 🧬 AdmixtureGen — Genomic Ancestry & Population Structure Platform
+> A full-stack bioinformatics web platform and processing engine designed for genomic ancestry decomposition and population genetic structure modeling.
 
-- **High-Speed Data Crossing:** Built optimized merge and joining routines handling thousands of animal genotypic records with custom schema isolation (Gir & Girolando).
-- **Automated Laboratory Integrations:** Integration pipelines for automated fetching, parsing, and caching of Neogen and Clarifide genomics data.
-- **Dynamic Visualization:** Interactive generation of linear trait graphs, genealogy trees, and batch PDF/CSV report exports with user presets.
+- **Illumina FinalReport to PLINK Converter:** Built an automated ingestion service that transforms massive raw Illumina reports into standard binary PLINK files (`.bed`, `.bim`, `.fam`), featuring flexible allele column recognition, cow autosome filtering, and robust error validation.
+- **3-Stage QC & LD Pruning Engine:** Interactive quality control pipeline executing genotypic call rate filtering (`--geno`, `--mind`), minor allele frequency thresholds (`--maf`), and Linkage Disequilibrium pruning (`--indep-pairwise`) with seamless dataset transfer.
+- **Multi-Threaded ADMIXTURE & CV Optimization:** Automated parameter sweeps across ancestral populations ($K=2$ to $K=10$), cross-validation error calculation (`--cv`), automatic best-$K$ identification, and proactive sanitization of missing SNP loci.
+- **Publication-Grade Visualizations:** High-definition stacked ancestry barplots, CV error curves, real-time log monitoring, and complete bundled ZIP exports ($Q$ and $P$ matrices, logs, and proportion tables).
+
+#### 2. 🔬 Biolab — Dairy Cattle Genomics & Breeding Platform
+> An end-to-end bioinformatics management platform deployed for cattle breeding programs at Embrapa Gado de Leite.
+
+- **High-Speed Data Crossing:** Optimized merge and joining routines handling thousands of animal genotypic records with custom schema isolation (Gir & Girolando / PNMGL).
+- **Automated Laboratory Integrations:** Integration pipelines for automated fetching, parsing, and caching of Neogen and Zoetis Clarifide genomics data.
+- **Dynamic Visualization & Analytics:** Interactive generation of linear trait graphs, genealogy trees, and batch PDF/CSV report exports with user presets.
 
 ---
 
@@ -83,5 +108,5 @@ I am a Software Engineer and Developer specializing in **Python, Django, and dat
 ---
 
 <div align="center">
-  <sub>⭐ Designed with passion for code and data science.</sub>
+  <sub>⭐ Designed with passion for code, genomics, and data science.</sub>
 </div>
