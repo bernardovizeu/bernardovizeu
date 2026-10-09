@@ -126,9 +126,3 @@ My work is centered on building end-to-end scientific platforms and automated pi
 - **Manhattan Plotting & Statistical Thresholds:** Automated post-processing generating publication-grade Manhattan plots across all 29 bovine autosomes, applying rigorous multiple-testing corrections with both Bonferroni ($0.05 / N_{snps}$) and Benjamini-Hochberg FDR thresholds.
 - **Automated NCBI Candidate Gene Discovery:** Direct ETL integration with the NCBI Datasets REST API (*Bos taurus* ARS-UCD1.2 assembly `GCF_002263795.3`), scanning user-defined genomic flanking windows around top-associated SNPs to resolve candidate gene IDs, symbols, types, and official nomenclature.
 - **Dockerized Production Deployment:** Production-grade containerization with Docker Compose, Gunicorn, and Nginx reverse proxy supporting SSL (Let's Encrypt), large payload uploads (50GB), automated email notifications with academic citations, and user-isolated result ZIP bundles.
-
----
-
-<div align="center">
-  <sub>⭐ Designed with passion for code, genomics, and data science.</sub>
-</div>
