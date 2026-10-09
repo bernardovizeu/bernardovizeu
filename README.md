@@ -85,6 +85,12 @@ My work is centered on building end-to-end scientific platforms and automated pi
 ### 🚀 Highlight Projects
 
 #### 1. 🧬 AdmixtureGen — Genomic Ancestry & Population Structure Platform
+<p>
+  <img src="https://img.shields.io/badge/Repo-Private_Institutional-inactive?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Deployment-Embrapa_Gado_de_Leite-006837?style=flat-square&logo=leaf" />
+  <img src="https://img.shields.io/badge/Access-Internal_Research-orange?style=flat-square" />
+</p>
+
 > A full-stack bioinformatics web platform and processing engine designed for genomic ancestry decomposition and population genetic structure modeling.
 
 - **Illumina FinalReport to PLINK Converter:** Built an automated ingestion service that transforms massive raw Illumina reports into standard binary PLINK files (`.bed`, `.bim`, `.fam`), featuring flexible allele column recognition, cow autosome filtering, and robust error validation.
@@ -93,6 +99,12 @@ My work is centered on building end-to-end scientific platforms and automated pi
 - **Publication-Grade Visualizations:** High-definition stacked ancestry barplots, CV error curves, real-time log monitoring, and complete bundled ZIP exports ($Q$ and $P$ matrices, logs, and proportion tables).
 
 #### 2. 🔬 Biolab — Dairy Cattle Genomics & Breeding Platform
+<p>
+  <img src="https://img.shields.io/badge/Repo-Private_Institutional-inactive?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Deployment-Embrapa_Gado_de_Leite-006837?style=flat-square&logo=leaf" />
+  <img src="https://img.shields.io/badge/Access-Internal_Production-00838F?style=flat-square" />
+</p>
+
 > An end-to-end bioinformatics management platform deployed for cattle breeding programs at Embrapa Gado de Leite.
 
 - **High-Speed Data Crossing:** Optimized merge and joining routines handling thousands of animal genotypic records with custom schema isolation (Gir & Girolando / PNMGL).
@@ -100,6 +112,12 @@ My work is centered on building end-to-end scientific platforms and automated pi
 - **Dynamic Visualization & Analytics:** Interactive generation of linear trait graphs, genealogy trees, and batch PDF/CSV report exports with user presets.
 
 #### 3. 🎯 BioLab ssGWAS — Single-Step Genome-Wide Association Study Platform
+<p>
+  <img src="https://img.shields.io/badge/Repo-Private_Institutional-inactive?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Deployment-Embrapa_Gado_de_Leite-006837?style=flat-square&logo=leaf" />
+  <img src="https://img.shields.io/badge/Status-Production_Service-2E86DE?style=flat-square" />
+</p>
+
 > A full-stack, distributed web platform and asynchronous execution engine for Single-Step GWAS (ssGWAS), integrating the BLUPF90 suite, dynamic parameter card generation, iterative SNP weighting, and automated NCBI genomic annotation.
 
 - **Asynchronous ssGWAS Computation Engine:** Distributed microservice architecture powered by Flask, Redis, and Python RQ (Redis Queue) with distributed lock concurrency control to safely orchestrate long-running `renumf90`, `blupf90+`, and `postGSf90` mixed-model genomic equations.
@@ -108,19 +126,6 @@ My work is centered on building end-to-end scientific platforms and automated pi
 - **Manhattan Plotting & Statistical Thresholds:** Automated post-processing generating publication-grade Manhattan plots across all 29 bovine autosomes, applying rigorous multiple-testing corrections with both Bonferroni ($0.05 / N_{snps}$) and Benjamini-Hochberg FDR thresholds.
 - **Automated NCBI Candidate Gene Discovery:** Direct ETL integration with the NCBI Datasets REST API (*Bos taurus* ARS-UCD1.2 assembly `GCF_002263795.3`), scanning user-defined genomic flanking windows around top-associated SNPs to resolve candidate gene IDs, symbols, types, and official nomenclature.
 - **Dockerized Production Deployment:** Production-grade containerization with Docker Compose, Gunicorn, and Nginx reverse proxy supporting SSL (Let's Encrypt), large payload uploads (50GB), automated email notifications with academic citations, and user-isolated result ZIP bundles.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bernardovizeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardovizeu&layout=compact&theme=tokyonight&langs_count=6" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardovizeu&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
