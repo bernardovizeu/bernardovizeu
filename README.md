@@ -2,7 +2,7 @@
 
 # About my work
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Bioinformatics+Dev;Genomic+Data+Pipelines;Embrapa+Gado+de+Leite+%F0%9F%A7%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Bioinformatics+Dev;Genomic+Data+Pipelines;Embrapa+Gado+de+Leite)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:bernardovmiranda@gmail.com"><img src="https://img.shields.io/badge/Email-bernardovmiranda%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
