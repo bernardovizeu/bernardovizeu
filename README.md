@@ -20,7 +20,7 @@
 
 My name is Bernardo Vizeu de Miranda and I am a **Software Engineer and Bioinformatics Developer** at **Embrapa Gado de Leite**, operating at the intersection of data-intensive web architectures, high-performance computing, and livestock genomics. 
 
-My work is centered on building end-to-end scientific platforms and automated pipelines that transform massive, complex biological datasets — from raw Illumina high-density SNP arrays to pedigree trees and phenotypic evaluations — into fast web interfaces, scalable database queries, and publication-ready genomic analyses for dairy cattle breeding programs (Gir, Girolando, and PNMGL).
+My work is centered on building end-to-end scientific platforms and automated pipelines that transform massive, complex biological datasets — from raw cattle data with high-density SNP arrays to pedigree trees and phenotypic evaluations — into fast web interfaces, scalable database queries, and publication-ready genomic analyses for dairy cattle breeding programs (PNMGL and PMGG).
 
 - 🔭 **Currently working on:** 
   - **BioLab ssGWAS:** An asynchronous, distributed Single-Step GWAS platform powered by Django, Flask, Redis Queue, and the BLUPF90 suite (`renumf90`, `blupf90+`, `postGSf90`), automating iterative SNP weighting, Bonferroni & FDR Manhattan plots, and live NCBI candidate gene annotation.
