@@ -18,7 +18,7 @@
 
 ### 🧬 About Me
 
-I am a **Software Engineer and Bioinformatics Developer** at **Embrapa Gado de Leite**, operating at the intersection of data-intensive web architectures, high-performance computing, and livestock genomics. 
+My name is Bernardo Vizeu de Miranda and I am a **Software Engineer and Bioinformatics Developer** at **Embrapa Gado de Leite**, operating at the intersection of data-intensive web architectures, high-performance computing, and livestock genomics. 
 
 My work is centered on building end-to-end scientific platforms and automated pipelines that transform massive, complex biological datasets — from raw Illumina high-density SNP arrays to pedigree trees and phenotypic evaluations — into fast web interfaces, scalable database queries, and publication-ready genomic analyses for dairy cattle breeding programs (Gir, Girolando, and PNMGL).
 
