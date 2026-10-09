@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Bernardo Vizeu! 👋
+# About my work
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Bioinformatics+Dev;Genomic+Data+Pipelines+%26+ssGWAS+Systems;PLINK+%7C+ADMIXTURE+%7C+BLUPF90;Embrapa+Gado+de+Leite+%F0%9F%A7%AC)](https://git.io/typing-svg)
 
